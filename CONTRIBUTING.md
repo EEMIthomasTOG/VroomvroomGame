@@ -31,21 +31,21 @@ If you'd like to contribute code or documentation:
    git push origin feature/your-feature-name
 6. **Open a pull request**: 
 Go to the original repository, navigate to the "Pull Requests" tab, and click "New Pull Request."
-**Follow the Pull request template**
+**_Follow the Pull request template_**
 
-## Guidelines for Contributions
+## Guidelines for Contributions
 
 ### Code Style
 - Follow the existing code style used in the project.
 - Write clear, self-documenting code with comments where necessary.
 
-###Testing
+### Testing
 - Add or update tests for your changes, if applicable.
 - Ensure all tests pass before submitting your pull request:
    ```bash
    npm test  # or the appropriate command for your project
 
-###Documentation
+### Documentation
 
 - Update the documentation (e.g., README or other guides) to reflect your changes.
 - If you're fixing a bug, mention it in the CHANGELOG.md (if available).
