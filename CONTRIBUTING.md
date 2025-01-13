@@ -52,7 +52,7 @@ Go to the original repository, navigate to the "Pull Requests" tab, and click "N
 
 ## Code of Conduct
 
-Please review and follow our [Code of Conduct](https://github.com/EEMIthomasTOG/VroomvroomGame/blob/main/code_of_conduct.md) to ensure a respectful and productive environment for everyone.
+Please review and follow our [Code of Conduct](https://github.com/EEMIthomasTOG/VroomvroomGame/blob/main/CODE-OF-CONDUCT.md) to ensure a respectful and productive environment for everyone.
 
 ## Questions?
 
