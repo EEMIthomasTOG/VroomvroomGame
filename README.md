@@ -6,3 +6,8 @@ The replay mode is available <br />
 The battle royale mode is available <br />
 Cars make some noises now !<br />
 The campaign mode is available <br />
+<br />
+<br />
+<br />
+<br />
+![Linter](https://raw.githubusercontent.com/EEMIthomasTOG/VroomvroomGame/refs/heads/main/linter.png)
