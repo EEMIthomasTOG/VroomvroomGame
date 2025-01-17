@@ -1,3 +1,4 @@
 
 var speed = 100;
-console.log("The car A goes to "+speed+" km/h !!!");
+var model = "golf gti";
+console.log("The car A is a"+model+", and goes to "+speed+" km/h !!!");
