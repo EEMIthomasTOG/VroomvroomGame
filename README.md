@@ -1,3 +1,4 @@
 # VroomvroomGame
-This is a really fun open-source game
-The A car goes to 100 km/h !!!
+This is a really fun open-source game<br />
+The A car goes to 100 km/h, but the old rusty truck is slow !!!<br />
+
