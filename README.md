@@ -6,3 +6,4 @@ The replay mode is available <br />
 The battle royale mode is available <br />
 Cars make some noises now !<br />
 The campaign mode is available <br />
+There is so much circuits !!! <br />
