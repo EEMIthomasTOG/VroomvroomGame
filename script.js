@@ -11,7 +11,11 @@ const campaignMode = true;
 
 console.log("replay: "+replayMode);
 console.log("battleRoyale: "+battleRoyaleMode);
+<<<<<<< HEAD
 console.log("campaign mode: "+battleRoyaleMode);
+=======
+console.log("campaignMode: "+campaignMode);
+>>>>>>> f4d8297 (add the campaign mode)
 console.log("The car A is a"+modelA+", and goes to "+speedA+" km/h !!! But the "+modelB+" goes to"+speedB+" km/h...");
 console.log(modelA+" goes: "+soundA);
 console.log(modelB+" goes: "+soundB);
